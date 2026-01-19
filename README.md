@@ -2,6 +2,12 @@
 
 A comprehensive Streamlit application for inventory optimization and demand forecasting, designed to help analyze and optimize supply chain operations using advanced inventory management models.
 
+## 🚀 Live Demo
+
+**Try the deployed application:**
+
+🔗 **Visit:** https://hr-inventory-analytics-target.streamlit.app/
+
 ## 🎯 Features
 
 ### 1. **KPI Dashboard**
@@ -77,12 +83,6 @@ inventory_simulator/
 │   └── target_logo.png            # Target logo (80x80)
 └── README.md                       # This file
 ```
-
-## 🚀 Live Demo
-
-**Try the deployed application:**
-
-🔗 **Visit:** https://hr-target-analytics.streamlit.app/
 
 ## 📈 Mathematical Models
 
